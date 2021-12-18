@@ -1,0 +1,107 @@
+/*body {*/
+/*    margin:0;*/
+/*    padding:0;*/
+/*}*/
+/*.container {*/
+/*    overflow:hidden;*/
+/*    width:430px;*/
+/*    position: absolute;*/
+/*    margin: 0 auto;*/
+/*    left: 600px;*/
+/*    top: 100px;*/
+
+/*}*/
+/*.box {*/
+/*    width:100px;*/
+/*    height:100px;*/
+/*    float:left;*/
+/*    background-color: burlywood;*/
+/*    margin-bottom:10px;*/
+/*}*/
+
+/*.spacing {*/
+/*    margin-right:10px;*/
+/*}*/
+/*.goblin {*/
+/*    width: 100px;*/
+/*    height: 100px;*/
+
+/*}*/
+
+.holder {
+    width: 600px;
+}
+.add_ticket {
+    margin: 0 0 20px 390px;
+    height: 30px;
+    background-color: transparent;
+    border: 2px solid lightblue;
+    border-radius: 4px;
+
+
+}
+.ticket {
+    width: 500px;
+    height: 50px;
+    margin: 0 0 20px 0;
+    border: 2px solid lightblue;
+    border-radius: 4px;
+}
+
+.edit {
+    font-size: 20px;
+    height: 20px;
+    border: none;
+    background-color: transparent;
+    margin: 0 0 0 30px;
+
+}
+.delete {
+    font-size: 20px;
+    height: 20px;
+    border: none;
+    background-color: transparent;
+    margin: 0 0 0 10px;
+
+}
+.modal_add_ticket {
+    display: block;
+    position: absolute;
+    border: 2px solid lightblue;
+    border-radius: 4px;
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    margin: 0 0 30px 130px;
+    padding: 20px;
+}
+.add_ticket_button_cancel {
+    margin-top: 10px;
+}
+#longdesc {
+    height: 40px;
+}
+
+.hidden {
+    display: none;
+}
+.required {
+    border: darkred;
+    border: 2px solid red;
+    border-radius: 4px;
+}
+.content {
+    width: 250px;
+    padding: 0 10px;
+}
+.date {
+    padding: 0 10px;
+}
+.ticket_content {
+    display: flex;
+    margin-top: 10px;
+}
+.long_content {
+    margin: 10px 0 0 30px;
+    width: 250px;
+}
